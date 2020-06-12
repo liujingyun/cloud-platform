@@ -10,6 +10,9 @@
     <modules>
         <module>cloud-api-commons</module>
         <module>cloud-gateway</module>
+        <module>cloud-alibaba-provider-payment9001</module>
+        <module>cloud-alibaba-provider-payment9002</module>
+        <module>cloudalibaba-config-nacos-client3377</module>
     </modules>
     <packaging>pom</packaging>
 
